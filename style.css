@@ -20,8 +20,8 @@ body {
 }
 
 .container {
-    width: 315px;
-    height: 680px;
+    width: 400px;
+    height: 700px;
     display: flex;
     flex-direction: column;
     margin: auto;
@@ -67,12 +67,13 @@ body {
     align-items: center;
     display: flex;
     border-radius: 10px;
+    font-weight: 700;
 }
 
 /* text styling */
 
 h1 {
-
+    font-size: 1.9rem;
 }
 
 p {
